@@ -1,0 +1,15 @@
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\bin\Debug\net7.0\ESCOLETA.exe
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\bin\Debug\net7.0\ESCOLETA.deps.json
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\bin\Debug\net7.0\ESCOLETA.runtimeconfig.json
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\bin\Debug\net7.0\ESCOLETA.dll
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\bin\Debug\net7.0\ESCOLETA.pdb
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.csproj.AssemblyReference.cache
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.AssemblyInfoInputs.cache
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.AssemblyInfo.cs
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.csproj.CoreCompileInputs.cache
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.dll
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\refint\ESCOLETA.dll
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.pdb
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ESCOLETA.genruntimeconfig.cache
+D:\PROJETOS\c\ESCOLETA\ESCOLETA\obj\Debug\net7.0\ref\ESCOLETA.dll
